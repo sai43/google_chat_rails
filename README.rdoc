@@ -2,7 +2,7 @@
 
 This is simple google chat application.
 
-clone repo url at https://github.com/sai43/google_chat_rails.git
+clone this repository  using this URL https://github.com/sai43/google_chat_rails.git
 
 After clone Run below commands ...............................
 
